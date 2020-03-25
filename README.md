@@ -1,7 +1,5 @@
 # React Bridge to Web Components
 
-## Example
-
 ```javascript
 import mapsPropsToElement from "@hyanmandian/map-props-to-element";
 
